@@ -1,1 +1,1 @@
-https://radar-test.vercel.app/products
+https://radar-test.vercel.app/
