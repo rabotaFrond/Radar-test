@@ -1,3 +1,5 @@
+radar-test.vercel.app
+
 Тестовое задание на позицию Frontend разработчик
 
 Разработать React приложение:
@@ -23,4 +25,4 @@
 
 АПИ: http://89.191.225.217/api
 Документация АПИ: http://89.191.225.217/docs (все описания, ограничения и схемы в Swagger)
-![image](https://github.com/user-attachments/assets/9efa1beb-75b8-4565-ad0f-149922b7ed07)
+
