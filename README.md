@@ -1,4 +1,4 @@
-radar-test.vercel.app
+[radar-test.vercel.app](https://radar-test.vercel.app/)
 
 Тестовое задание на позицию Frontend разработчик
 
